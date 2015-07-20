@@ -1,0 +1,22 @@
+.animatedDiv {
+	width: 100px;
+	height: 100px;
+	background-color: #FF0000;
+	color:white;
+	text-align: center;
+}
+.someOtherDiv{
+	width: 100px;
+	height: 100px;
+	background-color: #0000FF;
+}
+.purpleDiv{
+	width: 100px;
+	height: 100px;
+	background-color: #9900FF;
+}
+.greenDiv{
+	width: 100px;
+	height: 100px;
+	background-color: #00FF00;
+}
